@@ -12,10 +12,9 @@ function logWhisper(string) {
     console. log(string);
     console. log(string.toLowerCase());
 }
-const name = "sayHiToHeadphonedRoommate";
-
-    console.log("I can't hear you!",toLowerCase);
-   
-    
-
-
+function sayHiToHeadphonedRoommate(string) {
+    return string  "I can't hear you!"
+    console. log(string)(toLowerCase)("I can't hear you!");
+    console.log(string)("YES INDEED!"), (toUppercase);
+    console. log(string)("I would love to!"), ("Let's have dinner together!")
+}
